@@ -6,9 +6,17 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Francisco",
+      "name": "Fran",
       "surnames": "Villalta",
-      "description": "Soy desarrollador frontend, principalmente trabajo con Angular (actualmente acabamos de actualizar a Angular 9). Me considero fan de las nuevas tecnologias, me encanta probar cualquier framework nuevo que salga. Actualmente trabajo en una startup con Angular - Ionic y estamos creando un design system para la misma con Stencil.js (web components). Sobre mi, tengo 27 años, soy de Cádiz y llevo dos años en Madrid dedicandome al desarrollo front."
+      "title": "Senior Frontend Developer",
+      "description": "Soy desarrollador frontend, he trabajado con los principales framework (Angular, React, web components).\n\nMe considero fan de las nuevas tecnologias, me encanta probar cualquier framework nuevo que salga.\n\nSobre mi, tengo 29 años, soy de Cádiz y llevo más de cuatro años en Madrid dedicandome al desarrollo front.",
+      "avatar": {
+        "alt": "DBE2FC7E-0011-4C80-874B-906F3DA6F383.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/003b6481-5cba-4e8a-94a1-5e20df34488a_dbe2fc7e-0011-4c80-8.jpeg"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
     },
     "relevantLinks": [
       {
@@ -120,12 +128,6 @@
       },
       {
         "skill": {
-          "name": "XML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Oracle",
           "type": "technology"
         }
@@ -144,19 +146,7 @@
       },
       {
         "skill": {
-          "name": "VMWare",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Stencil.js",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VirtualBox",
           "type": "technology"
         }
       }

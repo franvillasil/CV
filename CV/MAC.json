@@ -160,6 +160,48 @@
           "URL": "https://www.linkedin.com/in/franvillalta/"
         }
       ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Redux",
+          "type": "technology"
+        },
+        {
+          "name": "Svelte",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        },
+        {
+          "name": "web components",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      ]
     }
   }
 }
